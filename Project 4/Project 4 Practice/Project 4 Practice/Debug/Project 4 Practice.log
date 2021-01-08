@@ -1,0 +1,5 @@
+﻿  Project 4 Practice.cpp
+D:\Documents - Data Drive\CSUF\Spring 2020\CPSC 240\Projects\Project 4\Project 4 Practice\Project 4 Practice\Project 4 Practice.cpp(12,14): warning C4309: 'initializing': truncation of constant value
+D:\Documents - Data Drive\CSUF\Spring 2020\CPSC 240\Projects\Project 4\Project 4 Practice\Project 4 Practice\Project 4 Practice.cpp(32,2): warning C4102: 'checkRam': unreferenced label
+D:\Documents - Data Drive\CSUF\Spring 2020\CPSC 240\Projects\Project 4\Project 4 Practice\Project 4 Practice\Project 4 Practice.cpp(60,2): warning C4102: 'checkPrinters': unreferenced label
+  Project 4 Practice.vcxproj -> D:\Documents - Data Drive\CSUF\Spring 2020\CPSC 240\Projects\Project 4\Project 4 Practice\Debug\Project 4 Practice.exe

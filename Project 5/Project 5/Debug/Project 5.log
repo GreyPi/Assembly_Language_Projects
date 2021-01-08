@@ -1,0 +1,5 @@
+﻿  Project 5.cpp
+D:\Documents - Data Drive\CSUF\Spring 2020\CPSC 240\Projects\Project 5\Project 5\Project 5\Project 5.cpp(14,11): error C2040: 'b': 'int' differs in levels of indirection from 'int [4][4]'
+D:\Documents - Data Drive\CSUF\Spring 2020\CPSC 240\Projects\Project 5\Project 5\Project 5\Project 5.cpp(106,13): error C2440: '=': cannot convert from 'int [4][4]' to 'int'
+D:\Documents - Data Drive\CSUF\Spring 2020\CPSC 240\Projects\Project 5\Project 5\Project 5\Project 5.cpp(106,12): message : There is no context in which this conversion is possible
+D:\Documents - Data Drive\CSUF\Spring 2020\CPSC 240\Projects\Project 5\Project 5\Project 5\Project 5.cpp(106,20): error C3863: array type 'int [4][4]' is not assignable
