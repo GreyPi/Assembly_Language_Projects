@@ -1,6 +1,6 @@
 # Class Projects
 
-**Decription:**
+**Description:**
   
   This repository contains coding projects in assembly language. Project 1 and 2 were written in C++ and were irrelevant for this
   repository. Each project folder conatins a pdf of what the program does. These projects demonstrate how to; load and store
